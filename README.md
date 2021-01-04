@@ -1,2 +1,23 @@
 # HUST_expriment
-HUST CS experiment or program design
+
+华科计科实验
+
+## 大一
+
+C语言实验
+
+## 大二
+
+数据结构实验
+
+数据结构课设(DPLL)
+
+## 大三
+
+组原实验
+
+计网实验
+
+操作系统实验(PKE)
+
+。。。
